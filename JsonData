@@ -1,1 +1,268 @@
 
+{
+  "percent_show_ins": 30,
+  "ads_type": "",
+  "fan": {
+    "ins1": "",
+    "ins2": "",
+    "ins3": "",
+    "ins4": "",
+    "ins5": "",
+    "banner1": "",
+    "banner2": "",
+    "banner3": "",
+    "banner4": "",
+    "banner5": "",
+    "banner6": "",
+    "banner7": "",
+    "banner8": "",
+    "banner9": "",
+    "banner10": ""
+  },
+  "ane":{
+    "ins1":"53cbbc27-0111-4978-a3b7-14d500f40b1d",
+    "banner1": "0e5e3d29-6d3d-46aa-b492-70ad52927a8b"
+  },
+  "unt":{
+    "id": "3943909",
+    "ins1": "video",
+    "banner1": "banner"
+  },
+  "aln": "",
+  "is_force_aln": true,
+  "tou": "",
+  "characters": [
+    {
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Protag",
+      "info": "Protag is the main character, playing a leading role in the story of Hello Neighbor. In segment 1, he is a young man. Proving that his neighbor had locked something in the cellar, he decided to follow.
+	  That opened up somewhat more creepy secrets. Specifically, Protag saw many cells that were mimicking real-world simulations. At this point, the neighbor appeared, chased and locked Protag in the basement
+	  Segment 2 revolves around Protag escaping from the basement and trying to escape from a neighbor's current fortified home. After their escape, the game allows players to see a rather deadly scene before the characters return to their homes.
+	  Segment 3 is where the Protag is now an adult. He returned to his old house. By the time Protag wakes up in the house, he finds a house across from the neighbor's name. At this point, players will move to start the game.",
+      "level": [
+        ""
+      ],
+      "levelName": [
+        "Ability"
+      ]
+    }
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "neighbor",
+      "info": "Neighbors are neighbors who once had a happy family, but in the end they all died. Grief-stricken, he began to kidnap people to try to fill up the mental trauma.
+	  One day, Protag was playing in the field and found Neighbor locking something up in the basement. Curious, he began an investigation and was eventually locked up. Protag tries to escape from the neighbor's house and basement.
+	  He tried to live according to what he learned. Neighbors, angry with the protag, attempted to kidnap him multiple times to prevent him from telling anyone what he saw. In the end, he reported to the police about the neighbor's name. He was evicted and the house was destroyed.",
+      "level": [
+        ""
+      ],
+      "levelName": [
+        "Ability"
+      ]
+    }
+  ],
+  "vehicles": [
+    {
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/vehicle1.png",
+      "name": "Yellow Car",
+      "desc": "Multiple cars are normally seen driving on the road in Hello Neighbor and are practically useless. The cars can only drive past if you are very far away from the road.",
+      "property1": 2,
+      "property2": 100,
+      "property3": 1540,
+      "property4": 0
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/vehicle2.png",
+      "name": "Red Car",
+      "desc": "The Red Car is a vehicle owned by The Neighbor. The player is not able to drive this vehicle, nor is it ever seen moving in-game. This car appears to be from the late 1950s giving off that Hello Neighbor takes quite some place in the past. Or that the neighbor likes old-school cars. But since we (the protagonist) also have an early fifties style car, it seems like Hello Neighbor is taking place in the past.
+
+It has been in the same place for the Pre-Alpha and Alpha 1 (right in-front of the Garage parked in the driveway.) In Alpha 2, 3 and 4 the Red Car is seen sitting on top of the fence, as the Neighbor drove the car onto the fence. The car was also parked on top of the fence in the Beta versions and full game. One of the developers of Hello Neighbor stated that it was because The Neighbor is a bad driver.",
+      "property1": 2,
+      "property2": 100,
+      "property3": 1540,
+      "property4": 0
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/vehicle3.PNG",
+      "name": "Blue Car",
+      "desc": "Nicky Roth's car first appeared in the Prototype. It is not very well visible and is seen for a split second.
+
+In Pre-Alpha, Nicky Roth's car can be clearly seen and it looks like an old-style yellow car with white inserts. It has white mirrors, headlights with a white body and yellow glasses. It has a scabfront front bumper. The car has a trunk and two headlights with red glasses at the back. The car wheels have white discs. In Pre-Alpha, the interior has "wooden" elements, as well as burgundy seats.
+
+The interior changed in Alpha 1. It became more simplified and the colors of the seats and trim changed.
+
+The interior changed again in Alpha 2. It became more detailed and realistic. You can also interact with the car door in training. The trunk has also changed, so it can be interacted with.
+
+In Alpha 3, the interior from Alpha 1 returned.
+
+In Beta 1, the car changed and became cartoonish. It become more regular. Now its front headlights have an uneven shape of a white rectangle. Also, the front bumper became less realistic. The rear has small red headlights and a trunk. The wheels are now less smooth and symmetrical and have silver discs. The car has no doors in Beta - Beta 2 training. You can also interact with the trunk in training. In Beta 3 in training the doors are inserted into the car. Just with the trunk and doors in the main game can fully interact.",
+      "property1": 2,
+      "property2": 100,
+      "property3": 1540,
+      "property4": 0
+    }
+  ],
+  "weapons": [
+    {
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/weapons1.png",
+      "name": "Bear Trap",
+      "desc": "Bear traps are placed in areas that the Player visits frequently, with the intent of making it easier for the Neighbor to catch them. In the Pre-Alpha, the Neighbor also threw bear traps while chasing the player. If the player walks into the trap (or interacts with it, prior to Alpha 2), they will be caught and will need to repeatedly press the space bar to escape. If the Neighbor is trapped, he will grab his leg and attempt to pull it out of the jaws of the trap, succeeding after a few attempts. When a trap is triggered, the sound of its jaws snapping shut will attract the attention of the Neighbor, similar to the cameras.
+
+If the player breaks a window, the Neighbor may place a bear trap next to the window in order to trap the player the instant they jump through it. The player can also pick up bear traps and use them against the Neighbor, but they can only be picked up if the trap is closed. In the Pre-Alpha, there were sometimes three different-sized bear traps hanging on the wall of the garage that served no purpose, but could still trap the player if they walked into them.",
+      "type": "Bear Trap",
+      "attribute": [
+        "",
+        ""
+      ],
+      "property1": 49,
+      "property2": 0.1,
+      "property3": 490,
+      "property4": 0.3,
+      "property5": 4,
+      "property6": 2,
+      "property7": 40,
+      "property8": 69,
+      "dan": 100
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/weapons2.PNG",
+      "name": "Fireworks",
+      "desc": "The Fireworks were an item that could be found in Alpha 2. They made their first appearance here. The Fireworks can be thrown at the Neighbor to stun him. They are found in the Bird Room upstairs. They were one of the items that were introduced in Alpha 2. There was a handful of Firework boxes, but unfortunately do not stun the neighbor when ignited, though, in the "Fireworks Gameplay" trailer, the fireworks did in fact stun the neighbor for a brief period of time when they were ignited. Them not working in the final version may have been from switching Unreal Engine versions or accidentally tampered with, causing them to not work. The fireworks can still be ignited and set off, but have no effect on the player or the neighbor.
+
+In Nieghbor_3, you can still find 3 boxes of fireworks, but do not affect you or the neighbor here either. After this, the fireworks went unused for a period of time, but would later return.",
+      "type": "Fireworks",
+      "attribute": [
+        "",
+        ""
+      ],
+      "property1": 49,
+      "property2": 0.1,
+      "property3": 490,
+      "property4": 0.3,
+      "property5": 4,
+      "property6": 2,
+      "property7": 40,
+      "property8": 69,
+      "dan": 100
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/weapons3.PNG",
+      "name": "Telephone",
+      "desc": "The Telephone is a Weapon and Tool Item found in your House. If picked up, it causes the Neighbor to walk to the phone by his front door. It should be used to distract the Neighbor, most likely so you can get in through the Back Door.",
+      "type": "Telephone",
+      "attribute": [
+        "",
+        ""
+      ],
+      "property1": 49,
+      "property2": 0.1,
+      "property3": 490,
+      "property4": 0.3,
+      "property5": 4,
+      "property6": 2,
+      "property7": 40,
+      "property8": 69,
+      "dan": 100
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/weapons4.PNG",
+      "name": "Rifle",
+      "desc": "The Rifle is a key item in Hello Neighbor that first appeared in Alpha 1.
+	  The rifle is a toy gun with a gray muzzle and brown stock, which has the words "Bang! Bang!" etched onto it. The bullets it shoots are yellow cone-shaped pellets, which are about the size of apples and presumably made out of styrofoam.",
+      "type": "Rifle",
+      "attribute": [
+        "",
+        ""
+      ],
+      "property1": 49,
+      "property2": 0.1,
+      "property3": 490,
+      "property4": 0.3,
+      "property5": 4,
+      "property6": 2,
+      "property7": 40,
+      "property8": 69,
+      "dan": 100
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/weapons5.PNG",
+      "name": "Base Balls",
+      "desc": "A baseball is a ball used in the sport of the same name, baseball. The ball features a rubber or cork center and covered in the words of the Official Baseball Rules and are used in the final boss fight.",
+      "type": "Base Balls",
+      "attribute": [
+        "",
+        ""
+      ],
+      "property1": 49,
+      "property2": 0.1,
+      "property3": 490,
+      "property4": 0.3,
+      "property5": 4,
+      "property6": 2,
+      "property7": 40,
+      "property8": 69,
+      "dan": 100
+    },
+	{
+      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/weapons/1.png",
+      "name": "Bucket",
+      "desc": "Buckets are items in Hello Neighbor that the Neighbor sets up as traps.
+	  Buckets were blue and plastic with a yellow handle (with their design changing slightly in Alpha 2) until Beta 3, when they were turned into a metallic silver.",
+      "type": "Bucket",
+      "attribute": [
+        "",
+        ""
+      ],
+      "property1": 49,
+      "property2": 0.1,
+      "property3": 490,
+      "property4": 0.3,
+      "property5": 4,
+      "property6": 2,
+      "property7": 40,
+      "property8": 69,
+      "dan": 100
+    }
+  ],
+  "maps": [
+    {
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/map3.PNG",
+      "name": "Windows? More like win-NOs",
+      "desc": "If you can't find an entrance, or a distraction, make your own, right? Exactly.
+
+If you need to make a quick escape - or a daring entrance - you can take out a window and jump straight through. Hold the item button when looking at small items, and you'll be able to pick them up. A second tap will throw them, smashing any windows in the way.
+
+You'll also notice the neighbour himself like to just, erm, stroll through windows sometimes. It's quicker, I suppose?"
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/map4.PNG",
+      "name": "Perfect stealth?",
+      "desc": "Of course, the best way to make it through is with perfect stealth, in every sense of the word. It's possible, just difficult.
+
+You'll need to stay behind the neighbour, if you ever need to pass him by, and tiptoe your way around the dungeon-like building to make sure you don't get caught.
+
+But also, in your early tries, don't be too afraid to just run in, find a method of progression, and then using what you've learnt on your next time through. It is basically a roguelike, after all.
+
+You can use his cupboards and wardrobes to hide away in if he's onto you, but they're not perfect…"
+    }
+  ],
+  "guides": [
+    {
+      "title": "Nosy neighbours",
+      "content": "So the aim of the game here is to get into your neighbour's house, and find his secrets. And, oh, there are secrets. He's hiding away a few fantastical things in the depths of his abode, and it's up to you to seek them out.
+
+Getting in there won't be easy though, as the neighbour is watching. If he sees you, he'll throw things at you and seek you down.
+
+Luckily you can walk slowly and use the walls and corners of the house to hide and make progress unaware.",
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/map1.PNG"
+    },
+	{
+      "title": "Operation distraction",
+      "content": "So how do we get in without him noticing? Well, the easiest way is to cause a distraction. On the left side of his house you'll be able to find an electrical switch.
+
+You know where this is going. Flipping the switch will trip the electrics in the house, causing the neighbour to start looking at what's going on.
+
+This will cause him to open one of the doors in his house, allowing you to make entry, if you can do it undercover.",
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/map2.PNG"
+    }
+  ]
+}
