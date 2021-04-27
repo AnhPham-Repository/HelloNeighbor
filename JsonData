@@ -43,7 +43,11 @@
       ]
     },
 	{
+<<<<<<< HEAD
       "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.jpg",
+=======
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_neighbor.png",
+>>>>>>> a0399fe48b23ee33db7ae3265b0663b28f1956dd
       "name": "neighbor",
       "info": "Neighbors are neighbors who once had a happy family, but in the end they all died. Grief-stricken, he began to kidnap people to try to fill up the mental trauma.One day, Protag was playing in the field and found Neighbor locking something up in the basement. Curious, he began an investigation and was eventually locked up. Protag tries to escape from the neighbor's house and basement.He tried to live according to what he learned. Neighbors, angry with the protag, attempted to kidnap him multiple times to prevent him from telling anyone what he saw. In the end, he reported to the police about the neighbor's name. He was evicted and the house was destroyed.",
       "level": [
@@ -180,7 +184,11 @@
       "dan": 100
     },
 	{
+<<<<<<< HEAD
       "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/weapons/1.jpg",
+=======
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/weapons6.png",
+>>>>>>> a0399fe48b23ee33db7ae3265b0663b28f1956dd
       "name": "Bucket",
       "desc": "Buckets are items in Hello Neighbor that the Neighbor sets up as traps.\n Buckets were blue and plastic with a yellow handle (with their design changing slightly in Alpha 2) until Beta 3, when they were turned into a metallic silver.",
       "type": "Bucket",
@@ -220,7 +228,31 @@
 	{
       "title": "Operation distraction",
       "content": "So how do we get in without him noticing? Well, the easiest way is to cause a distraction. On the left side of his house you'll be able to find an electrical switch.\nYou know where this is going. Flipping the switch will trip the electrics in the house, causing the neighbour to start looking at what's going on.\nThis will cause him to open one of the doors in his house, allowing you to make entry, if you can do it undercover.",
+<<<<<<< HEAD
       "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/map2.jpg"
+=======
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/map2.PNG"
+    },
+	{
+      "title": "Act 1 | Walkthrough",
+      "content": "In Act 1, your main objective is to obtain the red key to open the door to the mysterious location./n After regaining control over the main protagonist, go towards the ball. After a short cutscene, you are caught by the neighbor (unavoidable)./n Now, you find yourself opposite your neighbor's house. First, go inside your own house - it is right behind you.\n Pick up something to smash a window with (e.g. the TV set) and two cardboard boxes \n Now, go towards the rack visible in the screenshot above.",
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/ActImage.PNG"
+    },
+	{
+      "title": "Act 2 | Walkthrough",
+      "content": "In Act 2, your objective is to get out of the neighbor's house./n After regaining control over your character, approach the door and peek through the keyhole. Keep doing it until you see a drawn character and the door opens.\n After leaving the room, go left towards the ventilation shaft. Take the grid and enter the shaft.\n After leaving the shaft, go rightwards. Use the ladder to go up.\n Now, you are in the neighbor's backyard. There are some boxes lying around - take four of them.",
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/ActImage.PNG"
+    },
+	{
+      "title": "Act 3 | Walkthrough",
+      "content": "Act 3 is the last chapter in Hello Neighbor. During this act, you get to explore the neighbor's house and fight the final battle.\n You begin this act in the apartment. Wait until you receive the letter. After reading it and watching the cutscene you will find yourself in a new location.\n Take the key from the car's trunk and enter the green house. After another cutscene finishes, pick up the phone. After watching the next cutscene you will regain full control over your character.\n Firstly, enter the neighbor's house through the front door and go to the right along the corridor until you reach the stairs visible above. Go upstairs.\n Jump onto the lamp visible above.\n And now, enter the room presented above.",
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/ActImage.PNG"
+    },
+	{
+      "title": "Finale, Ending | Walkthrough",
+      "content": "After a short cutscene, you get to the location visible in the screenshot above. Run towards the construction./n Take four cardboard boxes with you.Now, flip the switch visible above by throwing cardboard boxes at it.Then, go towards the place shown above.Climb the furniture to reach the toaster.Jump inside, and it will shoot you upwards. Go towards the green shelf.Use the switch shown above.",
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/ActImage.PNG"
+>>>>>>> a0399fe48b23ee33db7ae3265b0663b28f1956dd
     }
   ]
 }
