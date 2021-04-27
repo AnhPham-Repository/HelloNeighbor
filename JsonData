@@ -180,7 +180,7 @@
       "dan": 100
     },
 	{
-      "image": "https://github.com/AnhPham-Repository/HelloNeighbor/blob/main/weapons6.png",
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/weapons6.png",
       "name": "Bucket",
       "desc": "Buckets are items in Hello Neighbor that the Neighbor sets up as traps.\n Buckets were blue and plastic with a yellow handle (with their design changing slightly in Alpha 2) until Beta 3, when they were turned into a metallic silver.",
       "type": "Bucket",
